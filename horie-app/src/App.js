@@ -1,4 +1,5 @@
 function App(props) {
+  import Todo from "./components/Todo";
   return (
     <div className="todoapp stack-large">
       <h1>TodoMatic</h1>
